@@ -1,4 +1,3 @@
-
 public class Printer {
 
     private int paper;
