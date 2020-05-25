@@ -12,9 +12,9 @@
 *.zip
 *.tar.gz
 *.rar
-*.DS_Store
 # IntelliJ
 .idea/
 out/
 target/
 .idea_modules/
+.DS_Store
