@@ -11,8 +11,7 @@ public class TestPrinter {
     public void before(){printer = new Printer(20, 20);}
 
     @Test
-    public void hasPaper(){
-        assertEquals(20, printer.getPaper());}
+    public void hasPaper(){assertEquals(20, printer.getPaper());}
 
     @Test
     public void hasToner(){assertEquals(20, printer.getToner());}
