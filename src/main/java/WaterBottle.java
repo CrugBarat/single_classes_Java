@@ -4,7 +4,7 @@ public class WaterBottle {
 
     public WaterBottle(){this.volume = 100;}
 
-    public int getVolume(){return this.volume;};
+    public int getVolume(){return this.volume;}
 
     public int drink(){return this.volume -= 10;}
 
